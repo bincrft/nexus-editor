@@ -1,4 +1,4 @@
-# Nexus-editor
+# Nexus-Editor
 
 A Online Code Editor - Made by Bincrft & Rue
 
